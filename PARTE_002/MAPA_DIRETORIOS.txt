@@ -1,0 +1,102 @@
+﻿PARTE: PARTE_002
+ORIGEM: C:\Users\joao6\Desktop\OMORI_CODIGO_DADOS\js
+
+PARTE_002	1	32943	plugins\Exhydra_FollowerControl.OMORI
+PARTE_002	2	3448	plugins\External Notes.OMORI
+PARTE_002	3	11468	plugins\Extra_Followers.OMORI
+PARTE_002	4	14727	plugins\ExtraMovementFrames.OMORI
+PARTE_002	5	149341	plugins\FilterController.OMORI
+PARTE_002	6	731	plugins\FilterControllerBlurPatch.OMORI
+PARTE_002	7	8107	plugins\Follower_Control.OMORI
+PARTE_002	8	5081	plugins\fuku_EventTremble.OMORI
+PARTE_002	9	2170	plugins\fuku_testpack.OMORI
+PARTE_002	10	18895	plugins\Gacha.OMORI
+PARTE_002	11	15866	plugins\GachaBook.OMORI
+PARTE_002	12	9110	plugins\GALV_AnimatedSplashScreens.OMORI
+PARTE_002	13	10057	plugins\GALV_CamControl.OMORI
+PARTE_002	14	18534	plugins\GALV_EventDetectors.OMORI
+PARTE_002	15	9685	plugins\GALV_MoveRouteExtras.OMORI
+PARTE_002	16	6642	plugins\GTP_CoreUpdates.OMORI
+PARTE_002	17	123336	plugins\GTP_OmoriFixes.OMORI
+PARTE_002	18	12667	plugins\HIME_EnemyReinforcements.OMORI
+PARTE_002	19	16	plugins\---------ITEMS---------.OMORI
+PARTE_002	20	1129	plugins\KEN_PictureBelowChars.OMORI
+PARTE_002	21	6627	plugins\Liquid_EventData.OMORI
+PARTE_002	22	11960	plugins\Liquid_EventIcons.OMORI
+PARTE_002	23	16	plugins\---------MAP---------.OMORI
+PARTE_002	24	26338	plugins\Map_Character_Tag.OMORI
+PARTE_002	25	16	plugins\---------MAP_MOVEMENT---------.OMORI
+PARTE_002	26	16	plugins\---------MENU---------.OMORI
+PARTE_002	27	16	plugins\---------MESSAGE---------.OMORI
+PARTE_002	28	5080	plugins\OggOnly.OMORI
+PARTE_002	29	138878	plugins\Olivia_HorrorEffects.OMORI
+PARTE_002	30	12219	plugins\Olivia_MapDisplayNameCore.OMORI
+PARTE_002	31	16786	plugins\Olivia_SkipCutscene.OMORI
+PARTE_002	32	270867	plugins\Omori BASE.OMORI
+PARTE_002	33	215112	plugins\Omori Battle System.OMORI
+PARTE_002	34	30811	plugins\Omori Bestiary.OMORI
+PARTE_002	35	13987	plugins\Omori BlackLetterMap.OMORI
+PARTE_002	36	44637	plugins\Omori BlackLetterMenu.OMORI
+PARTE_002	37	44607	plugins\Omori Item Shop.OMORI
+PARTE_002	38	41748	plugins\Omori Main Menu - Scene Equip.OMORI
+PARTE_002	39	39008	plugins\Omori Main Menu - Scene Item.OMORI
+PARTE_002	40	77421	plugins\Omori Main Menu - Scene Options.OMORI
+PARTE_002	41	43046	plugins\Omori Main Menu - Scene Skill.OMORI
+PARTE_002	42	83558	plugins\Omori Main Menu.OMORI
+PARTE_002	43	33784	plugins\Omori Map QTE.OMORI
+PARTE_002	44	72728	plugins\Omori Name Input.OMORI
+PARTE_002	45	110384	plugins\Omori Photo Album.OMORI
+PARTE_002	46	32093	plugins\Omori Quest Menu.OMORI
+PARTE_002	47	32779	plugins\Omori Save & Load.OMORI
+PARTE_002	48	50271	plugins\Omori Title Screen.OMORI
+PARTE_002	49	16	plugins\---------OMORI----------.OMORI
+PARTE_002	50	629	plugins\OMORI_BattleFormulas.OMORI
+PARTE_002	51	225941	plugins\PresetAnimations.OMORI
+PARTE_002	52	952	plugins\RegionRandomize.OMORI
+PARTE_002	53	6215	plugins\RotatePictureEx.OMORI
+PARTE_002	54	4014	plugins\SimpleEventFade.OMORI
+PARTE_002	55	9794	plugins\Sketchbook.OMORI
+PARTE_002	56	16	plugins\---------SKILLS---------.OMORI
+PARTE_002	57	59233	plugins\SlotMachine.OMORI
+PARTE_002	58	3272	plugins\smart_path_mv.OMORI
+PARTE_002	59	1798	plugins\SpaghettiCode.OMORI
+PARTE_002	60	5656	plugins\SRD_WaitOptions.OMORI
+PARTE_002	61	126269	plugins\stbvorbis.js
+PARTE_002	62	201794	plugins\stbvorbis_asm.js
+PARTE_002	63	133599	plugins\stbvorbis_stream.js
+PARTE_002	64	210681	plugins\stbvorbis_stream_asm.js
+PARTE_002	65	27515	plugins\TDDP_AnimationCurves.OMORI
+PARTE_002	66	11626	plugins\TDDP_MovePictureEx.OMORI
+PARTE_002	67	5250	plugins\TDDP_NoFastForward.OMORI
+PARTE_002	68	22192	plugins\TDS Footprints.OMORI
+PARTE_002	69	19344	plugins\TDS Map Fog.OMORI
+PARTE_002	70	6738	plugins\TDS Parallax Pictures.OMORI
+PARTE_002	71	11365	plugins\TDS Particles.OMORI
+PARTE_002	72	27033	plugins\TDS Text Effects.OMORI
+PARTE_002	73	23430	plugins\Text_Language_Processor.OMORI
+PARTE_002	74	736	plugins\Text_LanguageProcessor_MissingYAMLCrashPrevent.OMORI
+PARTE_002	75	16	plugins\---------UTILITY---------.OMORI
+PARTE_002	76	4438	plugins\WaitFPS.OMORI
+PARTE_002	77	27089	plugins\YED_SideviewBattler.OMORI
+PARTE_002	78	1339	plugins\YED_SideviewBattler_MIRROR.OMORI
+PARTE_002	79	88776	plugins\YED_Tiled.OMORI
+PARTE_002	80	25217	plugins\YEP_AutoPassiveStates.OMORI
+PARTE_002	81	3416	plugins\YEP_BaseTroopEvents.OMORI
+PARTE_002	82	63809	plugins\YEP_BattleAICore.OMORI
+PARTE_002	83	192021	plugins\YEP_BattleEngineCore.OMORI
+PARTE_002	84	77799	plugins\YEP_BuffsStatesCore.OMORI
+PARTE_002	85	5700	plugins\YEP_CallEvent.OMORI
+PARTE_002	86	95317	plugins\YEP_CoreEngine.OMORI
+PARTE_002	87	51449	plugins\YEP_DamageCore.OMORI
+PARTE_002	88	7368	plugins\YEP_DashToggle.OMORI
+PARTE_002	89	149213	plugins\YEP_Debugger.OMORI
+PARTE_002	90	41097	plugins\YEP_EquipCore.OMORI
+PARTE_002	91	14829	plugins\YEP_EventChasePlayer.OMORI
+PARTE_002	92	17165	plugins\YEP_EventCopier.OMORI
+PARTE_002	93	12838	plugins\YEP_EventEncounterAid.OMORI
+PARTE_002	94	6181	plugins\YEP_EventHitboxResize.OMORI
+PARTE_002	95	18833	plugins\YEP_EventMiniLabel.OMORI
+PARTE_002	96	19233	plugins\YEP_EventMorpher.OMORI
+PARTE_002	97	10157	plugins\YEP_EventProxActivate.OMORI
+PARTE_002	98	27326	plugins\YEP_EventSpawner.OMORI
+PARTE_002	99	9033	plugins\YEP_EventSpriteOffset.OMORI
