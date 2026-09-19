@@ -1,0 +1,102 @@
+﻿PARTE: PARTE_001
+ORIGEM: C:\Users\joao6\Desktop\OMORI_CODIGO_DADOS\js
+
+PARTE_001	1	404938	libs\dragonbones\dragonBones.js
+PARTE_001	2	31559	libs\dragonbones\dragonBonesPixi.js
+PARTE_001	3	7586	libs\fpsmeter.js
+PARTE_001	4	7684	libs\greenworks.js
+PARTE_001	5	524889	libs\greenworks-linux32.node
+PARTE_001	6	466215	libs\greenworks-linux64.node
+PARTE_001	7	454656	libs\greenworks-osx64.node
+PARTE_001	8	449024	libs\greenworks-win32.node
+PARTE_001	9	558080	libs\greenworks-win64.node
+PARTE_001	10	3666	libs\iphone-inline-video.browser.js
+PARTE_001	11	230	libs\js-yaml-master\.editorconfig
+PARTE_001	12	66	libs\js-yaml-master\.eslintignore
+PARTE_001	13	4201	libs\js-yaml-master\.eslintrc.yml
+PARTE_001	14	102	libs\js-yaml-master\.gitignore
+PARTE_001	15	451	libs\js-yaml-master\.ndocrc
+PARTE_001	16	63	libs\js-yaml-master\.travis.yml
+PARTE_001	17	705	libs\js-yaml-master\bower.json
+PARTE_001	18	10339	libs\js-yaml-master\CHANGELOG.md
+PARTE_001	19	81	libs\js-yaml-master\index.js
+PARTE_001	20	1665	libs\js-yaml-master\lib\js-yaml.js
+PARTE_001	21	1177	libs\js-yaml-master\lib\js-yaml\common.js
+PARTE_001	22	26471	libs\js-yaml-master\lib\js-yaml\dumper.js
+PARTE_001	23	1024	libs\js-yaml-master\lib\js-yaml\exception.js
+PARTE_001	24	42739	libs\js-yaml-master\lib\js-yaml\loader.js
+PARTE_001	25	1562	libs\js-yaml-master\lib\js-yaml\mark.js
+PARTE_001	26	2753	libs\js-yaml-master\lib\js-yaml\schema.js
+PARTE_001	27	362	libs\js-yaml-master\lib\js-yaml\schema\core.js
+PARTE_001	28	610	libs\js-yaml-master\lib\js-yaml\schema\default_full.js
+PARTE_001	29	601	libs\js-yaml-master\lib\js-yaml\schema\default_safe.js
+PARTE_001	30	278	libs\js-yaml-master\lib\js-yaml\schema\failsafe.js
+PARTE_001	31	586	libs\js-yaml-master\lib\js-yaml\schema\json.js
+PARTE_001	32	1586	libs\js-yaml-master\lib\js-yaml\type.js
+PARTE_001	33	3274	libs\js-yaml-master\lib\js-yaml\type\binary.js
+PARTE_001	34	971	libs\js-yaml-master\lib\js-yaml\type\bool.js
+PARTE_001	35	2840	libs\js-yaml-master\lib\js-yaml\type\float.js
+PARTE_001	36	4066	libs\js-yaml-master\lib\js-yaml\type\int.js
+PARTE_001	37	2508	libs\js-yaml-master\lib\js-yaml\type\js\function.js
+PARTE_001	38	1572	libs\js-yaml-master\lib\js-yaml\type\js\regexp.js
+PARTE_001	39	573	libs\js-yaml-master\lib\js-yaml\type\js\undefined.js
+PARTE_001	40	190	libs\js-yaml-master\lib\js-yaml\type\map.js
+PARTE_001	41	230	libs\js-yaml-master\lib\js-yaml\type\merge.js
+PARTE_001	42	761	libs\js-yaml-master\lib\js-yaml\type\null.js
+PARTE_001	43	1023	libs\js-yaml-master\lib\js-yaml\type\omap.js
+PARTE_001	44	1084	libs\js-yaml-master\lib\js-yaml\type\pairs.js
+PARTE_001	45	191	libs\js-yaml-master\lib\js-yaml\type\seq.js
+PARTE_001	46	547	libs\js-yaml-master\lib\js-yaml\type\set.js
+PARTE_001	47	189	libs\js-yaml-master\lib\js-yaml\type\str.js
+PARTE_001	48	2571	libs\js-yaml-master\lib\js-yaml\type\timestamp.js
+PARTE_001	49	1084	libs\js-yaml-master\LICENSE
+PARTE_001	50	2915	libs\js-yaml-master\Makefile
+PARTE_001	51	1087	libs\js-yaml-master\package.json
+PARTE_001	52	10058	libs\js-yaml-master\README.md
+PARTE_001	53	2127952	libs\libsdkencryptedappticket.dylib
+PARTE_001	54	1063483	libs\libsdkencryptedappticket.so
+PARTE_001	55	609216	libs\libsteam_api.dylib
+PARTE_001	56	365412	libs\libsteam_api.so
+PARTE_001	57	6703	libs\lz-string.js
+PARTE_001	58	27749	libs\pinyin.json
+PARTE_001	59	1359789	libs\pixi.js
+PARTE_001	60	23354	libs\pixi-picture.js
+PARTE_001	61	43680	libs\pixi-tilemap.js
+PARTE_001	62	571680	libs\sdkencryptedappticket.dll
+PARTE_001	63	4542	libs\sdkencryptedappticket.lib
+PARTE_001	64	756000	libs\sdkencryptedappticket64.dll
+PARTE_001	65	4554	libs\sdkencryptedappticket64.lib
+PARTE_001	66	876544	libs\steam_api.dll
+PARTE_001	67	227616	libs\steam_api.dll.valve
+PARTE_001	68	297550	libs\steam_api.lib
+PARTE_001	69	3566592	libs\steam_api64.dll
+PARTE_001	70	250656	libs\steam_api64.dll.valve
+PARTE_001	71	294986	libs\steam_api64.lib
+PARTE_001	72	1175	libs\SteamConfig.ini
+PARTE_001	73	2949	libs\trmix.min.js
+PARTE_001	74	279	main.js
+PARTE_001	75	283574	plugins.js
+PARTE_001	76	294	plugins\--------------------.OMORI
+PARTE_001	77	31147	plugins\Active Chain Skills.OMORI
+PARTE_001	78	4658	plugins\AEL_TilesetPropertyRegions.OMORI
+PARTE_001	79	28053	plugins\Aetherflow_PreloadEverything.OMORI
+PARTE_001	80	1227	plugins\Anti Fail Actions.OMORI
+PARTE_001	81	9074	plugins\Archeia_CoreChanges.OMORI
+PARTE_001	82	9655	plugins\Archeia_MessageCodes.OMORI
+PARTE_001	83	48159	plugins\Archeia_Steamworks.OMORI
+PARTE_001	84	123573	plugins\Aries001_AnimationScreenEffects.OMORI
+PARTE_001	85	38825	plugins\Aries003_WeatherControl.OMORI
+PARTE_001	86	19976	plugins\Atlas Loader.OMORI
+PARTE_001	87	36485	plugins\AudioStreaming.OMORI
+PARTE_001	88	16	plugins\---------BATTLE--------- .OMORI
+PARTE_001	89	16094	plugins\Battle Commands List.OMORI
+PARTE_001	90	16	plugins\---------BATTLE_CORE---------.OMORI
+PARTE_001	91	21337	plugins\Character_Movement_Graphics.OMORI
+PARTE_001	92	8625	plugins\Community_Basic.OMORI
+PARTE_001	93	16	plugins\---------CORE---------.OMORI
+PARTE_001	94	120260	plugins\Custom Battle Action Text.OMORI
+PARTE_001	95	15061	plugins\Custom Picture Controls.OMORI
+PARTE_001	96	7746	plugins\Custom_Character_Rectangles.OMORI
+PARTE_001	97	15442	plugins\Custom_Picture_Controls.OMORI
+PARTE_001	98	973	plugins\DisableMouse.OMORI
+PARTE_001	99	16	plugins\---------EVENTER---------.OMORI
