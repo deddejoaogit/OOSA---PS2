@@ -1,0 +1,58 @@
+﻿PARTE: PARTE_003
+ORIGEM: C:\Users\joao6\Desktop\OMORI_CODIGO_DADOS\js
+
+PARTE_003	1	6689	plugins\YEP_EventStepAniOpt.OMORI
+PARTE_003	2	16827	plugins\YEP_EventTimerControl.OMORI
+PARTE_003	3	43851	plugins\YEP_ExtraEnemyDrops.OMORI
+PARTE_003	4	17919	plugins\YEP_FootstepSounds.OMORI
+PARTE_003	5	27136	plugins\YEP_ImprovedBattlebacks.OMORI
+PARTE_003	6	28386	plugins\YEP_LifeSteal.OMORI
+PARTE_003	7	4265	plugins\YEP_LoadCustomFonts.OMORI
+PARTE_003	8	50347	plugins\YEP_MessageCore.OMORI
+PARTE_003	9	39264	plugins\YEP_MoveRouteCore.OMORI
+PARTE_003	10	13313	plugins\YEP_RegionBattlebacks.OMORI
+PARTE_003	11	63969	plugins\YEP_RegionEvents.OMORI
+PARTE_003	12	17208	plugins\YEP_RegionRestrictions.OMORI
+PARTE_003	13	10347	plugins\YEP_SaveEventLocations.OMORI
+PARTE_003	14	47928	plugins\YEP_SkillCore.OMORI
+PARTE_003	15	6857	plugins\YEP_SlipperyTiles.OMORI
+PARTE_003	16	13970	plugins\YEP_SmartJump.OMORI
+PARTE_003	17	55183	plugins\YEP_StealSnatch.OMORI
+PARTE_003	18	6692	plugins\YEP_StopMapMovement.OMORI
+PARTE_003	19	6401	plugins\YEP_SwapEnemies.OMORI
+PARTE_003	20	18728	plugins\YEP_Taunt.OMORI
+PARTE_003	21	7450	plugins\YEP_TestPlayAssist.OMORI
+PARTE_003	22	9948	plugins\YEP_UtilityCommonEvents.OMORI
+PARTE_003	23	64045	plugins\YEP_X_ActSeqPack1.OMORI
+PARTE_003	24	57383	plugins\YEP_X_ActSeqPack2.OMORI
+PARTE_003	25	38972	plugins\YEP_X_ActSeqPack3.OMORI
+PARTE_003	26	83508	plugins\YEP_X_AnimatedSVEnemies.OMORI
+PARTE_003	27	76607	plugins\YEP_X_CounterControl.OMORI
+PARTE_003	28	27993	plugins\YEP_X_CriticalControl.OMORI
+PARTE_003	29	67210	plugins\YEP_X_ExtMesPack1.OMORI
+PARTE_003	30	78729	plugins\YEP_X_ExtMesPack2.OMORI
+PARTE_003	31	13816	plugins\YEP_X_ExtMovePack1.OMORI
+PARTE_003	32	43663	plugins\YEP_X_MessageMacros1.OMORI
+PARTE_003	33	38538	plugins\YEP_X_MessageMacros2.OMORI
+PARTE_003	34	38538	plugins\YEP_X_MessageMacros3.OMORI
+PARTE_003	35	38538	plugins\YEP_X_MessageMacros4.OMORI
+PARTE_003	36	38538	plugins\YEP_X_MessageMacros5.OMORI
+PARTE_003	37	21358	plugins\YEP_X_PassiveAuras.OMORI
+PARTE_003	38	16988	plugins\YEP_X_StateCategories.OMORI
+PARTE_003	39	27094	plugins\YEP_Z_PassiveCases.OMORI
+PARTE_003	40	38657	plugins\YIN - Minigame - Blackjack.OMORI
+PARTE_003	41	13354	plugins\YIN - Minigame - HardwareShop.OMORI
+PARTE_003	42	12397	plugins\YIN - Minigame - HomeAlone.OMORI
+PARTE_003	43	8105	plugins\YIN - Minigame - Jukebox.OMORI
+PARTE_003	44	22035	plugins\YIN - Minigame - PetRocks.OMORI
+PARTE_003	45	7978	plugins\YIN - Minigame - PizzaDelivery.OMORI
+PARTE_003	46	22827	plugins\YIN - Minigame - Snake.OMORI
+PARTE_003	47	41563	plugins\YIN - Minigame - SpaceInvaders.OMORI
+PARTE_003	48	20868	plugins\YIN_OmoriFixes.OMORI
+PARTE_003	49	8336	plugins\YSP_VideoPlayer.OMORI
+PARTE_003	50	244396	rpg_core.js
+PARTE_003	51	85402	rpg_managers.js
+PARTE_003	52	312145	rpg_objects.js
+PARTE_003	53	81404	rpg_scenes.js
+PARTE_003	54	80558	rpg_sprites.js
+PARTE_003	55	182790	rpg_windows.js
